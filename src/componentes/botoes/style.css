@@ -23,13 +23,3 @@ button:hover {
   .reset:active {
     transform:scale(0.95)
   }
-  @media (min-width: 320px) and (max-width:480px) {
-    .reset {
-        bottom: 7vh;
-    }
-  }
-  @media (min-width: 481px) and (max-width:768px) {
-    .reset {
-        bottom: 9vh;
-    }
-  }
